@@ -36,9 +36,11 @@ This is a Tableau project that displays cinemas in Spain, their prices, the movi
 The data was extracted from the following cinema websites:
 
 - Cinesa
-- Renoir
 - Golem
+- Renoir
+
+<center><img src= "images/Tableau.PNG"></center>
 
 ## Author
 
-This has been created to display all the information related to cinemas in Spain.. If you have any questions or feedback, please contact me at juanoncorrea@gmail.com.
+This has been created to display all the information related to cinemas in Spain. Next steps, try to add new cinema chains, insert provinces so you can filter all the cinemas per province in Spain... If you have any questions or feedback, please contact me at juanoncorrea@gmail.com.
